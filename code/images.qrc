@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gpio.png</file>
+    </qresource>
+</RCC>
