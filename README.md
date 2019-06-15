@@ -26,3 +26,5 @@ Chip：ITE8786E-I
 
 `sudo ./app/GPIO-TEST.sh`运行程序
 
+
+**Windows：https://github.com/huchanghui123/ITE87_GPIO_TEST**
