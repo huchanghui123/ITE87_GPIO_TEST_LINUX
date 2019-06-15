@@ -1,0 +1,2 @@
+# ITE87_GPIO_TEST_LINUX
+Linux下ITE87芯片GPIO的简单测试工具
