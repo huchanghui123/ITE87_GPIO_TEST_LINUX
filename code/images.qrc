@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>gpio.png</file>
+        <file>gpio_bit.png</file>
     </qresource>
 </RCC>
